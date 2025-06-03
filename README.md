@@ -1,18 +1,27 @@
 # 👋 Hi, I'm Chee Wee!
-
 ## 📊 Aspiring Data Analyst | Career Switcher | Young Senior
-![About me](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif)
-
-Welcome to my GitHub! I am a mid-career switcher and a data analytics student. I am transitioning into the world of data analytics after over two decades 
-in the procurement industry. I'm passionate about continuous learning and turning raw data into actionable insights and currently building my skills in:
-
-- **Programming & Analysis**: Python, SQL  
-- **Data Visualization**: Tableau, Power BI  
-- **Tools & Libraries**: Pandas, NumPy, Matplotlib, Jupyter Notebooks  
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="100" />
+    </td>
+    <td>
+      <p>
+        Welcome to my GitHub! I am a mid-career switcher and a data analytics student. I am transitioning into the world of data analytics after over two decades 
+        in the procurement industry. I'm passionate about continuous learning and turning raw data into actionable insights and currently building my skills in:
+      </p>
+      <ul>
+        <li><strong>Programming & Analysis</strong>: Python, SQL</li>
+        <li><strong>Data Visualization</strong>: Tableau, Power BI</li>
+        <li><strong>Tools & Libraries</strong>: Pandas, NumPy, Matplotlib, Jupyter Notebooks</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I'm learning
 - Hands-on projects to apply my data skills in real-world scenarios
 - Visual dashboards using Tableau and Power BI
 - Data cleaning and exploration using Python and SQL
