@@ -23,7 +23,7 @@
 
 ## 🚀 What I'm learning
 - Hands-on projects to apply my data skills in real-world scenarios
-- Visual dashboards using Tableau and Power BI
+- Visual dashboards using [Tableau](https://public.tableau.com/app/profile/ng.chee.wee/vizzes) and Power BI
 - Data cleaning and exploration using Python and SQL
 
 ---
@@ -36,11 +36,10 @@
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/chee-wee-ng-007997340/)
-- [Tableau Public](https://public.tableau.com/app/profile/ng.chee.wee/vizzes)
-- 📫 How to reach me **[Email](cheeweeng@outlook.com)**
+- 📫 How to reach me **[Email](cheeweeng@outlook.com)**, [LinkedIn](https://www.linkedin.com/in/chee-wee-ng-007997340/)
 
-- ⚡ Fun fact **I like running(walking) ultra distances for relaxation**
-- 
+
+- ⚡ Fun fact: **I like running(walking) ultra distances for relaxation**
+
 Thanks for visiting my profile! I'm always open to feedback and collaboration as I grow in this exciting new field.
 
