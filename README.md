@@ -13,7 +13,7 @@
       <ul>
         <li><strong>Programming & Analysis</strong>: Python, SQL</li>
         <li><strong>Data Visualization</strong>: Tableau, Power BI</li>
-        <li><strong>Tools & Libraries</strong>: Pandas, NumPy, Matplotlib, Jupyter Notebooks</li>
+        <li><strong>Tools & Libraries</strong>: Pandas, NumPy, Matplotlib, seaborn, Jupyter Notebooks, MySQL workbench</li>
       </ul>
     </td>
   </tr>
