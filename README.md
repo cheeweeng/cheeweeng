@@ -7,8 +7,8 @@
     </td>
     <td>
       <p>
-        Welcome to my GitHub! I am a mid-career switcher and a data analytics student. I am transitioning into the world of data analytics after over two decades 
-        in the procurement industry. I'm passionate about continuous learning and turning raw data into actionable insights and currently building my skills in:
+        Welcome to my GitHub! I am a mid-career switcher and a data analytics student. I am transitioning into the world of data analytics and machine learning after over two decades 
+        in a procurement capacity. I am passionate about continuous learning and turning raw data into actionable insights and currently building my skills in:
       </p>
       <ul>
         <li><strong>Programming & Analysis</strong>: Python, SQL</li>
