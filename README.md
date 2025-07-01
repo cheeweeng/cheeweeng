@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Chee Wee!
-## 📊 Aspiring Data Analyst | Career Switcher | Young Senior
+## 📊 Aspiring Data Analyst | Career Switcher 
 <table>
   <tr>
     <td>
