@@ -24,7 +24,7 @@
 ## 🚀 What I'm learning
 - Hands-on projects to apply my data skills in real-world scenarios
 - Visual dashboards using [Tableau](https://public.tableau.com/app/profile/ng.chee.wee/vizzes) and Power BI
-- Data cleaning and exploration using Python and SQL
+- Data exploration, cleaning, visualization and machine learning using Python and SQL
 
 ---
 
@@ -41,6 +41,7 @@
 
 
 - ⚡ Fun fact: **I like running(walking) ultra distances for relaxation**
+- Connect with me on [Strava](https://www.strava.com/athletes/5803895)
 
 Thanks for visiting my profile! I'm always open to feedback and collaboration as I grow in this exciting new field.
 
