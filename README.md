@@ -31,8 +31,8 @@
 ## 🌱 Learning Goals
 - Advance my Python, SQL and data analysis skills
 - Build a strong portfolio of data projects
-- Learn data science techniques and hands-on knowledge such as text analytics, data mining, clustering, and machine learning .
-- Apply analytics to real-world large dataset to uncover actionable insights for data-driven decision-making
+- Learn data science techniques and acquire hands-on knowledge such as text analytics, data mining, clustering, and machine learning .
+- Apply analytics and machine learning techniques to real-world large dataset to uncover actionable insights for data-driven decision-making
 
 ---
 
