@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Chee Wee!
-## 📊 Aspiring Data and AI practiioner  
+## 📊 Aspiring Data and AI practitioner  
 <table>
   <tr>
     <td>
