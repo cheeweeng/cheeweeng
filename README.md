@@ -41,7 +41,7 @@
 - 📫 How to reach me **[Email](cheeweeng@outlook.com)**, [LinkedIn](https://www.linkedin.com/in/chee-wee-ng-007997340/)
 
 
-- ⚡ Fun fact: **I like running(walking) ultra distances for relaxation**
+- ⚡ Fun fact: **I like running + hiking + walking ultra distances for relaxation**
 - Connect with me on [Strava](https://www.strava.com/athletes/5803895)
 
 Thanks for visiting my profile! I'm always open to feedback and collaboration as I grow in this exciting new field.
