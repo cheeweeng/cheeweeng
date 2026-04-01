@@ -11,6 +11,7 @@
         in a procurement capacity. I am passionate about continuous learning and turning raw data into actionable insights and currently building my skills in:
       </p>
       <ul>
+        <li><strong>AI stack</strong>: Google AI Studio, Antigravity, Claude Code, Openclaw</li>
         <li><strong>Programming & Analysis</strong>: Python, SQL</li>
         <li><strong>Data Visualization</strong>: Tableau, Power BI</li>
         <li><strong>Tools & Libraries</strong>: Pandas, NumPy, Matplotlib, seaborn, Jupyter Notebooks, MySQL workbench</li>
@@ -22,7 +23,7 @@
 ---
 
 ## 🚀 What I'm learning
-- Hands-on projects to apply my data skills in real-world scenarios
+- Hands-on projects to build AI-powered web apps to solve real-world challenges
 - Visual dashboards using [Tableau](https://public.tableau.com/app/profile/ng.chee.wee/vizzes) and Power BI
 - Data exploration, cleaning, visualization and machine learning using Python and SQL
 
@@ -30,7 +31,7 @@
 
 ## 🌱 Learning Goals
 - Advance my Python, SQL and data analysis skills
-- Build a strong portfolio of data projects
+- Build a strong portfolio of data & AI projects
 - Learn data science techniques and acquire hands-on knowledge such as text analytics, data mining, clustering, and machine learning .
 - Apply analytics and machine learning techniques to real-world large dataset to uncover actionable insights for data-driven decision-making
 
